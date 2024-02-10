@@ -1,0 +1,2 @@
+# More about this website
+Moreover,I meticulously crafted a captivating single home page, leveraging HTML and CSS. I integrated intriguing transitions, dynamic transformations, animations, and innovative designs to elevate the site's appeal. My goal was to deliver a high-quality digital solution that exceeded the client's expectations and showcased my expertise in web development.
